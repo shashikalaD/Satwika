@@ -1,0 +1,14 @@
+.rdw-option-active {
+    box-shadow: none;
+    background-color: #e0e0e0;
+}
+.rdw-option-wrapper:hover {
+    box-shadow: none;
+    background-color: #eee;
+}
+.editer-content {
+    border: 1px solid #F1F1F1 !important;
+    padding: 5px !important;
+    border-radius: 2px !important;
+    height: 80% !important;
+}
